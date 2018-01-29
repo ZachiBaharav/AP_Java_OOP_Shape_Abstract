@@ -1,6 +1,6 @@
 
 // abstract class
-abstract class Shape {
+public abstract class Shape {
 
     // declare fields
     String objectName = " ";
