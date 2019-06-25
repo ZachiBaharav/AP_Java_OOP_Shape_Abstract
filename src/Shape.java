@@ -1,5 +1,10 @@
 
 // abstract class
+// Methods and classes in Java can be declared abstract. 
+// An abstract method has no implementation, 
+// and an abstract class cannot be made into an object.
+// Read more: https://www.java-made-easy.com/java-inheritance.html
+
 public abstract class Shape {
 
     // declare fields
